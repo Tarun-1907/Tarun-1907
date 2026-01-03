@@ -61,5 +61,4 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarun-1907&theme=default" />
 </p>
