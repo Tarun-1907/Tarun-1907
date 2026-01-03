@@ -16,8 +16,9 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" />
+  <img src="https://metrics.lecoq.io/tarun-1907?template=classic&base.header=0&base.repositories=0&base.metadata=0&commits=1" />
 </p>
+
 
 
 
