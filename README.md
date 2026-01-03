@@ -16,5 +16,16 @@
 </p> -->
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/tarun-1907?template=classic&languages=1&activity=1&community=0&repositories=0&metadata=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-1907&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-1907&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun-1907&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarun-1907&theme=default" />
+</p>
+
