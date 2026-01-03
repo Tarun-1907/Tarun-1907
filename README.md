@@ -15,4 +15,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" />
 </p> 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" />
+</p>
+
+
 
