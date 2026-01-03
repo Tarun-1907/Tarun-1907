@@ -10,14 +10,9 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
   <img src="https://komarev.com/ghpvc/?username=tarun-1907&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-1907" />
 </p>
 
----
-
 ### 📫 Reach Me
 - 📧 **Email:** tarunsaha200319@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/tarunjit-saha-3a0092233/  
-- 🧠 **Stack Overflow:** https://stackoverflow.com/users/25424384  
-
----
+- 💼 **LinkedIn:** https://www.linkedin.com/in/tarunjit-saha-3a0092233/
 
 ### 🤝 Connect with Me
 <p align="left">
@@ -28,8 +23,6 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="left">
@@ -45,8 +38,6 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
 </p>
-
----
 
 ### 📊 GitHub Activity
 
