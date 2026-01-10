@@ -2,9 +2,7 @@
 
 ### 📊 GitHub Activity:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-1907&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
-</p>
+<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-1907&theme=default" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" /> </p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=tarun-1907&theme=default" />
