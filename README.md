@@ -12,12 +12,12 @@
 <a href="https://www.linkedin.com/in/tarunjit-saha-3a0092233/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-### ⚡ Languages & Tools
 <a href="https://stackoverflow.com/users/25424384" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
 </p>
 
+<h3 align="left">⚡ Languages & Tools</h3>
 <p align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
 
 <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,css,django,docker,flask,git,html,java,js,linux,mongodb,mysql,opencv,python,tensorflow" />
