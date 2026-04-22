@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -107,7 +107,6 @@
 </a>
 
 </p>
-
 ### 📊 GitHub Activity:
 
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-1907&theme=default" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" /> </p>
