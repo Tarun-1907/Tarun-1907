@@ -18,7 +18,8 @@
 </p>
 
 <h3 align="left">⚡ Languages & Tools</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+
+<p align="left" style="display:flex; flex-wrap:wrap; gap:6px; align-items:center;">
 
 <img src="https://skillicons.dev/icons?i=aws,bash,c,cpp,css,django,docker,flask,git,html,java,js,linux,mongodb,mysql,opencv,python,tensorflow" />
 
