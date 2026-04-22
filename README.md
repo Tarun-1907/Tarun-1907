@@ -25,7 +25,8 @@
 <img src="https://skillicons.dev/icons?i=sklearn" />
 
 </p>
-### 📊 GitHub Activity:
+
+<h3 align="left">📊 GitHub Activity:</h3>
 
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-1907&theme=default" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" /> </p>
 
