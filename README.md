@@ -10,11 +10,11 @@
 ## 🖥️ Project Showcase
 
 - **[CodeToLive](https://codetolive.org)**  
-  *Learn, Practice and Master Coding*
+  - *Learn, Practice and Master Coding*
 - **[InterviewIQ](https://ai-interview-agent-frontend-five.vercel.app/)**
-  *AI Interviewer Agent*
+  - *AI Interviewer Agent*
 - **[CodeTogether](https://pair-programming-agent-dt92.vercel.app/)**  
-  *Pair Programming Agent*
+  - *Pair Programming Agent*
 
 <!-- ==================== CONNECT ==================== -->
 <h3 align="left">🌐 Connect with me</h3>
