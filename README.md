@@ -7,6 +7,16 @@
 
 - 📫 How to reach me **tarunsaha200319@gmail.com**
 
+## 🖥️ Project Showcase
+
+- **[CodeToLive](codetolive.org)**  
+  *Learn, Practice and Master Coding*
+- **[InterviewIQ](https://ai-interview-agent-frontend-five.vercel.app/)** 🔒  
+  *AI Interviewer Agent*
+- **[CodeTogether](https://pair-programming-agent-dt92.vercel.app/)**  
+  `PyTorch` `FastAPI` `Docker`  
+  *Pair Programming Agent*
+
 <!-- ==================== CONNECT ==================== -->
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left" style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin: 0;">
@@ -36,6 +46,7 @@
   </a>
 
 </p>
+
 
 <h3 align="left">📊 GitHub Activity:</h3>
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-1907&theme=default" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarun-1907&theme=default" /> </p> <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-1907&theme=default" /> </p>
