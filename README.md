@@ -11,7 +11,7 @@
 
 - **[CodeToLive](codetolive.org)**  
   *Learn, Practice and Master Coding*
-- **[InterviewIQ](https://ai-interview-agent-frontend-five.vercel.app/)** 🔒  
+- **[InterviewIQ](https://ai-interview-agent-frontend-five.vercel.app/)**
   *AI Interviewer Agent*
 - **[CodeTogether](https://pair-programming-agent-dt92.vercel.app/)**  
   `PyTorch` `FastAPI` `Docker`  
