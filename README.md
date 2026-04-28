@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tarunsaha200319@gmail.com**
 
-<h3 align="left">🖥️ Project Showcase</h3>
+<h3 align="left">🖥️ Project Showcase:</h3>
 
 - **[CodeToLive](https://codetolive.org)**  
   - *Learn, Practice and Master Coding*
@@ -17,7 +17,7 @@
   - *Pair Programming Agent*
 
 <!-- ==================== CONNECT ==================== -->
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left" style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin: 0;">
 
   <!-- LinkedIn -->
