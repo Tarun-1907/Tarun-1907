@@ -15,6 +15,9 @@
   - *AI Interviewer Agent*
 - **[CodeTogether](https://pair-programming-agent-dt92.vercel.app/)**  
   - *Pair Programming Agent*
+- **[TextGenAI](https://textgenai-three.vercel.app/)**
+  - *Supercharge Your Writing with AI*
+
 
 <!-- ==================== CONNECT ==================== -->
 <h3 align="left">🌐 Connect with me:</h3>
