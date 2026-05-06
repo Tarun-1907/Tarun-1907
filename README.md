@@ -17,7 +17,8 @@
   - *Pair Programming Agent*
 - **[TextGenAI](https://textgenai-three.vercel.app/)**
   - *Supercharge Your Writing with AI*
-
+- **[Portfolio](https://portfolio-puce-mu-64.vercel.app/)**  
+  - *My portfolio page*
 
 <!-- ==================== CONNECT ==================== -->
 <h3 align="left">🌐 Connect with me:</h3>
